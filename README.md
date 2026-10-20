@@ -1,5 +1,8 @@
-# test2
+# Hey i want to build a python file with fibonnaci code in it
 
-Automated commit via Synase AI DevOps Automation Engine.
-Branch: `main`
-Timestamp: 2026-10-20T13:18:59.194168+00:00
+Approved-build plan for test: hey i want to build a python file with fibonnaci code in it.
+
+```bash
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+```
